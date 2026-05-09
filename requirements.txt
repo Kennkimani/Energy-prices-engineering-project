@@ -1,0 +1,10 @@
+requests 
+pymongo
+pandas 
+apache-airflow 
+flask
+python-dotenv
+pymongo[srv]
+apscheduler
+Flask==3.0.2
+flask-cors==4.0.0
